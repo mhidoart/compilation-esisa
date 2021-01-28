@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="jdk.internal.org.objectweb.asm.tree.analysis.Value"/>
+<fullyQualifiedTypeName name="com.esisa.compiler.scanner.Identifier"/>
+<fullyQualifiedTypeName name="com.esisa.compiler.scanner.DFA"/>
+<fullyQualifiedTypeName name="com.esisa.compiler.scanner.Number"/>
+<fullyQualifiedTypeName name="com.esisa.compiler.scanner.Oprel"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.esisa.compiler.scanner.Scanner"/>
+<fullyQualifiedTypeName name="com.esisa.compiler.scanner.Token"/>
+</qualifiedTypeNameHistroy>
